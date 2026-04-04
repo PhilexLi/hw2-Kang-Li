@@ -31,7 +31,7 @@ Support teams spend a large portion of their day writing responses to similar ca
 
 ## Video Walkthrough
 
-*(Link to be added after recording)*
+[Watch on YouTube](https://youtu.be/xW2ZtNEMRSM)
 
 ---
 
